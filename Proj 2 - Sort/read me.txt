@@ -1,0 +1,1 @@
+The fitness function counts the number of times a smaller number is followed by a larger one. At the terminating condition the fitness value should be one less than the array size.
